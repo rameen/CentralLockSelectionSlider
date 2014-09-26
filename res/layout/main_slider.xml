@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/match_wrap"
+    android:background="@color/white" >
+
+    <TextView
+        android:id="@+id/tv_selector"
+        style="@style/wrap_wrap"
+        android:background="@color/tab_selected_blue"
+        android:gravity="bottom|center" 
+        android:text="Years"
+        android:textSize="12dp"
+        android:textColor="@color/white"
+        />
+
+    <Gallery
+        android:id="@+id/gallery"
+        style="@style/match_wrap" />
+
+</RelativeLayout>

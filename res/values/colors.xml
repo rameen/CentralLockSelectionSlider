@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="tab_selected_blue">#0071bc</color>    
+	<color name="white">#FFFFFF</color>
+	    <color name="darkest_gray">#2e2e2e</color>
+</resources>
